@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs><radialGradient id="b0" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#FF4A1C" stop-opacity="0.95"/><stop offset="100%" stop-color="#FF4A1C" stop-opacity="0"/></radialGradient><radialGradient id="b1" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#7A3CFF" stop-opacity="0.95"/><stop offset="100%" stop-color="#7A3CFF" stop-opacity="0"/></radialGradient><radialGradient id="b2" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#1E5BFF" stop-opacity="0.95"/><stop offset="100%" stop-color="#1E5BFF" stop-opacity="0"/></radialGradient><radialGradient id="b3" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#00A676" stop-opacity="0.95"/><stop offset="100%" stop-color="#00A676" stop-opacity="0"/></radialGradient><radialGradient id="b4" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#E5007A" stop-opacity="0.95"/><stop offset="100%" stop-color="#E5007A" stop-opacity="0"/></radialGradient>
+<filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="60"/></filter></defs>
+<rect width="1080" height="1350" fill="#F1EDE3"/>
+<g filter="url(#soft)"><circle cx="300" cy="430" r="520" fill="url(#b0)"/><circle cx="820" cy="360" r="480" fill="url(#b1)"/><circle cx="880" cy="980" r="560" fill="url(#b2)"/><circle cx="240" cy="1040" r="500" fill="url(#b3)"/><circle cx="560" cy="700" r="460" fill="url(#b4)"/></g>
+<rect width="1080" height="1350" fill="#F1EDE3" opacity="0.08"/>
+<rect x="30" y="30" width="34" height="3" fill="#C9C1B0"/><rect x="30" y="30" width="3" height="34" fill="#C9C1B0"/><rect x="1016" y="30" width="34" height="3" fill="#C9C1B0"/><rect x="1047" y="30" width="3" height="34" fill="#C9C1B0"/><rect x="30" y="1317" width="34" height="3" fill="#C9C1B0"/><rect x="30" y="1286" width="3" height="34" fill="#C9C1B0"/><rect x="1016" y="1317" width="34" height="3" fill="#C9C1B0"/><rect x="1047" y="1286" width="3" height="34" fill="#C9C1B0"/>
+<rect x="84" y="74" width="26" height="26" fill="#181510"/><text x="124" y="96" font-family="Space Mono" font-weight="700" font-size="26" fill="#181510" letter-spacing="1">ADSMITH</text>
+<text x="1044" y="96" text-anchor="end" font-family="Space Mono" font-size="21" fill="#181510" letter-spacing="1">AGENTIC · CLAUDE-AUTHORED</text>
+<g font-family="Space Mono" font-weight="700" font-size="22" letter-spacing="3" fill="#181510"><text x="84" y="560">THE ECONOMICS</text></g>
+<text x="80" y="700" font-family="Archivo Black" font-size="150" fill="#181510" letter-spacing="-4">Zero</text>
+<text x="80" y="838" font-family="Archivo Black" font-size="150" fill="#181510" letter-spacing="-4">marginal</text>
+<text x="80" y="976" font-family="Archivo Black" font-size="150" fill="#181510" letter-spacing="-4">cost.</text>
+<rect x="84" y="1030" width="150" height="14" fill="#181510"/>
+<text x="84" y="1110" font-family="Space Mono" font-size="27" fill="#181510">Image one and image ten thousand</text>
+<text x="84" y="1148" font-family="Space Mono" font-size="27" fill="#181510">cost exactly the same: nothing.</text>
+<line x1="84" y1="1246" x2="996" y2="1246" stroke="#181510" stroke-width="3"/>
+<text x="84" y="1284" font-family="Space Mono" font-size="18" fill="#181510" letter-spacing="1" opacity="0.7">ADSMITH · AGENTIC PATH · GENERATED, NOT TEMPLATED</text>
+</svg>

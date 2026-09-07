@@ -1,0 +1,60 @@
+[
+  {
+    "layout": "poster",
+    "slug": "thesis-hero",
+    "eyebrow": "Creative at scale",
+    "headline": "Thousands of on-brand variants. Zero marginal cost.",
+    "subhead": "One template plus a data sheet renders every variant — real fonts, real layout, correct text every time.",
+    "cta": "clone · run · ship",
+    "stamp": "$0.00",
+    "stampSub": "PER IMAGE"
+  },
+  {
+    "layout": "stat",
+    "slug": "zero-dollars",
+    "stat": "$0.00",
+    "eyebrow": "Marginal cost",
+    "headline": "Image #1 and image #10,000 cost the same.",
+    "subhead": "Local CPU time only. No per-image credit, no API fee, no rate limit."
+  },
+  {
+    "layout": "spectrum",
+    "slug": "every-colorway",
+    "eyebrow": "On-brand · every time",
+    "headline": "One template. Every colorway.",
+    "subhead": "Flip one token and the whole pack re-skins — still one brand family."
+  },
+  {
+    "layout": "ticket",
+    "slug": "build-step",
+    "eyebrow": "poster",
+    "headline": "A build step, not a slot machine.",
+    "subhead": "Deterministic: same sheet + same fonts = byte-identical PNGs, every run."
+  },
+  {
+    "layout": "grid9",
+    "slug": "one-sheet-many",
+    "eyebrow": "The whole idea",
+    "headline": "One sheet. Nine variants. Same brand.",
+    "subhead": "Add rows to get more. This page is nine of ten thousand.",
+    "cta": "adsmith.dev"
+  },
+  {
+    "layout": "split",
+    "slug": "ten-thousand",
+    "stat": "10,000",
+    "eyebrow": "Variants / month",
+    "headline": "From one template and a data sheet.",
+    "subhead": "Add a row, get a variant. The meter never moves.",
+    "cta": "no cap · no API"
+  },
+  {
+    "layout": "index",
+    "slug": "variant-index",
+    "stat": "10,000",
+    "eyebrow": "Variant index",
+    "headline": "The catalog this sheet produces.",
+    "subhead": "",
+    "cta": "generate the rest"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "isometric-stack",
+    "direction": "An isometric 3D stack of dozens of creative cards receding into the distance, each a different brand colour, fanning out from a single source card. Depth via overlapping parallelograms and gradients. The one-becomes-thousands idea, rendered as illustration.",
+    "headline": "One template. Endless variants.",
+    "subhead": "Every card is the same build — only the data changed."
+  },
+  {
+    "id": "mesh-gradient",
+    "direction": "A soft organic mesh / aurora poster: large blurred radial colour blobs in the brand palette bleeding into each other over the paper, with one enormous confident statement set over it. Generative, atmospheric — the opposite of a rigid grid.",
+    "headline": "Zero marginal cost.",
+    "subhead": "Image one and image ten thousand cost exactly the same: nothing."
+  },
+  {
+    "id": "build-console",
+    "direction": "A faux terminal / build console window rendered as vector art: title bar with traffic-light dots, a monospace prompt running `adsmith render`, a streaming list of generated variant filenames with a progress bar, and a blinking cursor. Narrates the deterministic build as a scene.",
+    "headline": "10,000 variants, one command.",
+    "subhead": "No API in the loop. Just a data sheet and a render step."
+  }
+]

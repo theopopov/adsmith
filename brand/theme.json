@@ -1,0 +1,48 @@
+{
+  "$comment": "Design tokens. Change the active theme or the palette and the WHOLE pack re-skins on the next render — no per-image edits. This is the 'tokens-first' layer.",
+  "active": "press",
+
+  "themes": {
+    "press": {
+      "label": "Press — warm paper + ink (the default look)",
+      "paper": "#F1EDE3",
+      "panel": "#E7E1D3",
+      "ink": "#181510",
+      "muted": "#6B6459",
+      "hairline": "#C9C1B0"
+    },
+    "carbon": {
+      "label": "Carbon — dark. Proof the same rows re-skin from one token flip.",
+      "paper": "#111013",
+      "panel": "#1B1A1F",
+      "ink": "#F4F2ED",
+      "muted": "#8C8794",
+      "hairline": "#33313A"
+    }
+  },
+
+  "palette": {
+    "$comment": "The brand colorway set. Every variant draws its accent from here by index, so N rows read as one on-brand family, not N random colors.",
+    "accents": [
+      "#FF4A1C",
+      "#1E5BFF",
+      "#00A676",
+      "#7A3CFF",
+      "#FFB000",
+      "#E5007A",
+      "#0EA5B7",
+      "#181510"
+    ]
+  },
+
+  "type": {
+    "display": "Archivo Black",
+    "numeral": "Anton",
+    "mono": "Space Mono"
+  },
+
+  "grid": {
+    "margin": 84,
+    "hairline_w": 3
+  }
+}

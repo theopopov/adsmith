@@ -1,0 +1,31 @@
+{
+  "name": "adsmith",
+  "version": "1.0.0",
+  "description": "Generate thousands of on-brand creative variants at zero marginal cost. Data sheet -> Satori (HTML/CSS -> SVG) -> resvg (SVG -> PNG). No API and no model in the render loop. Deterministic, offline, uncapped.",
+  "type": "module",
+  "main": "src/render.js",
+  "scripts": {
+    "render": "node src/render.js",
+    "render:carbon": "node src/render.js --theme carbon",
+    "contact-sheet": "node scripts/contact-sheet.js",
+    "fetch-fonts": "node scripts/fetch-fonts.js",
+    "agentic": "node src/agentic.js --mock",
+    "agentic:live": "node src/agentic.js",
+    "build": "node src/render.js && node scripts/contact-sheet.js"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": [
+    "satori", "resvg", "creative-generation", "ad-variants", "og-image",
+    "batch-image", "svg", "png", "deterministic", "zero-marginal-cost", "offline",
+    "agentic", "claude", "ai-design"
+  ],
+  "author": "Adsmith",
+  "license": "MIT",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.33.4"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^0.68.0"
+  }
+}
