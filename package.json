@@ -13,13 +13,26 @@
     "agentic:live": "node src/agentic.js",
     "build": "node src/render.js && node scripts/contact-sheet.js"
   },
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "keywords": [
-    "satori", "resvg", "creative-generation", "ad-variants", "og-image",
-    "batch-image", "svg", "png", "deterministic", "zero-marginal-cost", "offline",
-    "agentic", "claude", "ai-design"
+    "satori",
+    "resvg",
+    "creative-generation",
+    "ad-variants",
+    "og-image",
+    "batch-image",
+    "svg",
+    "png",
+    "deterministic",
+    "zero-marginal-cost",
+    "offline",
+    "agentic",
+    "claude",
+    "ai-design"
   ],
-  "author": "Adsmith",
+  "author": "Theo Popov (https://gtmstacker.com)",
   "license": "MIT",
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",
