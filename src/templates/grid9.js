@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * grid9.js — the mosaic.
  * A 3×3 wall of miniature creatives, each a different colorway, under one header.

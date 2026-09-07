@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * ticket.js — the build manifest / receipt.
  * Pure-monospace "printout" that frames each creative as a deterministic build

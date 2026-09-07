@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * poster.js — the hero layout.
  * Big Archivo Black headline over a field of on-brand swatches, capped with the

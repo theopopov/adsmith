@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * fetch-fonts.js — self-heal helper.
  * Re-downloads the bundled static fonts if assets/fonts is empty. The fonts are

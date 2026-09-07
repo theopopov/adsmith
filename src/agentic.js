@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * agentic.js — the AI-authored path.
  * ----------------------------------

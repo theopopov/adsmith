@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * index_catalog.js — the variant index.
  * A catalog / table-of-contents page: a numbered list of variant titles, framed by

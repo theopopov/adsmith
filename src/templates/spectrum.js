@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * spectrum.js — the full-bleed colourway band.
  * Every accent in the palette becomes a vertical stripe; a paper panel floats on

@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * split.js — the duotone split.
  * Left: a full-height accent panel with one giant Anton value. Right: paper with

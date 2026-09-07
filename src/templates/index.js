@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * templates/index.js — the layout registry.
  * Each data row names a `layout`; this maps the name to its builder. Seven distinct

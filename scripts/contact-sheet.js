@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * contact-sheet.js — tile every rendered PNG into one overview image.
  * The point of the whole repo in a single frame: many on-brand variants, one

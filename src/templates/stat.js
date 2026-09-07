@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Adsmith
+// SPDX-License-Identifier: MIT
 /**
  * stat.js — one enormous number.
  * The row supplies `stat` ("10,000", "$0.00", "17ms", "∞"). Anton condensed sets
