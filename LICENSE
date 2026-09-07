@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Bundled fonts (in assets/fonts/) are licensed under the SIL Open Font License
-1.1 and retain their own licenses (see the accompanying *-OFL.txt files):
-  - Archivo Black  (c) The Archivo Project Authors
-  - Anton          (c) The Anton Project Authors
-  - Space Mono     (c) The Space Mono Project Authors
